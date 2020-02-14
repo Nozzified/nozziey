@@ -1,0 +1,43 @@
+body{
+    margin: o;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.589)), url("./new born.jpg");
+    background-repeat: initial;
+    background-position: cover;
+ }
+ 
+ .nav {
+    overflow: hidden;
+    background-color: black;
+ }
+ .nav {
+    float: right;
+    display: flex;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+ }
+ .nav a:hover{
+    background-color: burlywood;
+    color: white;
+ }
+ 
+ h1{
+    color: white;
+ }
+ 
+ h2{
+    font-size: 30px;
+    color: white;
+ }
+ 
+ p{
+    font-size: 20px;
+    color: white;
+ }
+ 
+ ul li{
+    font-size: 20px;
+    color: white;
+ }
